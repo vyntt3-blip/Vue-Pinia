@@ -15,6 +15,14 @@
       </div>
       <div class="col-4 offset-1">
         <router-link
+          to="/homevuex"
+          class="form-control badge rounded-pill text-bg-warning p-4"
+        >
+          Home Vuex
+        </router-link>
+      </div>
+      <div class="col-4 offset-1">
+        <router-link
           to="/info"
           class="form-control badge rounded-pill text-bg-warning p-4"
         >
